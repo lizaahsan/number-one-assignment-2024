@@ -1,0 +1,151 @@
+ 
+.banner{
+    width: 1320px;
+    height: 600px;
+    position:relative;
+    text-align: center;
+
+}
+.banner-text{
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    font-size: 30px;
+    transform: translate(-50%, -50%);
+    color: whitesmoke;
+}
+.banner-text h2{
+    color: rgb(223, 222, 222);
+}
+.part-two{
+   margin-top: 8%;
+   position: relative;
+   font-family: 'Times New Roman', Times, serif;
+}
+.liflet-part-text-one{
+    position: absolute;
+    margin-left: 50%;
+    font-size: 50px;
+    color: rgb(248, 55, 22);
+    font-weight: 400;
+    line-height: 150px;
+}
+.liflet-part-text-two{
+    position: absolute;
+    margin-left: 50%;
+    top: 100px;
+    font-size: 12px;
+    line-height: 70px;
+    color: rgb(248, 55, 22);
+    
+}
+.liflet-part-text-three{
+    position: absolute;
+    margin-left: 50%;
+    top: 130px;
+    text-align: center;
+    font-size: 25px;
+    line-height: 50px;
+    color:rgb(19, 18, 18);
+    position: absolute;
+}
+.liflet-part-photo{
+    position: absolute;
+    top: 230px;
+    margin-left: 250px;
+}
+.part-three{
+    width: 100%;
+    height: 600px;
+    margin-top: 1000px;
+    position: relative;
+}
+.part-three-text-one{
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    font-weight: 400;
+    font-size: 30px;
+    color: aliceblue;
+}
+.part-three-text-two{
+    position: absolute;
+    top: 300px;
+    left: 100px;
+    font-size: 16px;
+    line-height: 30px;
+    color: aliceblue;
+}
+.part-three-text-three{
+    position: absolute;
+    top: 380px;
+    left: 100px;
+    font-size: 16px;
+    font-weight: 100;
+    border: 1px solid aliceblue;
+    border-radius: 2px;
+}
+.part-four{
+ width: 100%;
+ height: 1000px;
+ margin-top: 100px;
+ background-color: blueviolet;
+ position: relative;
+}
+.part-four-row-one{
+    position: absolute;
+    top: 50px;
+    left: 400px;
+    width: 400px;
+    height: 300px;
+    background-color: rgb(225, 210, 239);
+}
+.part-four-row-two{
+    position: absolute;
+    top: 380px;
+    left: 50px;
+    width: 1250px;
+    height: 400px;
+    background-color: rgb(225, 172, 172);
+}
+part-fr-in{
+    position: relative;
+}
+
+.part-four-left{
+    left: 80px;
+    top: 80px;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    background-color: brown;
+}
+.part-four-middle{
+    margin-top: 20px;
+    border: 10px solid rgb(200, 33, 3);
+    border-radius: 50%;
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    left:420px;
+    
+}
+.part-four-image{
+    border: 0px;
+    border-radius: 50%;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 25px;
+    top: 25px;
+   
+}
+.part-four-right{
+        left: 830px;
+        top: 80px;
+        position: absolute;
+        width: 300px;
+        height: 300px;
+        background-color: rgb(22, 222, 86);
+}
